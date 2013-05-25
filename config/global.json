@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "LinkMeApp"
+        }, 
+        "LinkMeApp": {
+            "applicationId": "YW5Z6DHlKs05zeA5t94WmpmVIQn1iihXICkj0I5r", 
+            "masterKey": "zZ3K9gOH3n1LwS4PHfgc9DoJTXYokvRKiXN9L2Wp"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.7"
+    }
+}
